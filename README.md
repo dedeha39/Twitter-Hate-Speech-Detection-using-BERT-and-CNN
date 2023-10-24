@@ -80,105 +80,41 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 -5. Radfar, B.; Shivaram, K.; Culotta, A. Characterizing Variation in Toxic Language by Social Context. In Proceedings of the International AAAI Conference on Web and Social Media; Association for the Advancement of Artificial Intelligence: Menlo Park, CA, USA, 2020; Volume 14, pp. 959–963.
 
--6. Guberman, J.; Schmitz, C.; Hemphill, L.
-Quantifying toxicity and verbal violence on Twitter.
-In Proceedings of the 19th ACM Conference on
-Computer Supported Cooperative Work and Social
-Computing Companion, San Francisco, CA, USA,
-27 February–2 March 2016; pp. 277–280.
-7. Gunasekara, I.; Nejadgholi, I. A review of standard
-text classification practices for multi-label toxicity
-identification of online content. In Proceedings of
-the 2nd Workshop on Abusive Language Online
-(ALW2), Brussels, Belgium, 31 October–1
-November 2018; pp. 21–25.
-8. Parent, M.C.; Gobble, T.D.; Rochlen, A. Social
-media behavior, toxic masculinity, and depression.
-Psychol. Men Masculinities 2019, 20, 277.
-9. Poletto, F.; Basile, V.; Sanguinetti, M.; Bosco, C.;
-Patti, V. Resources and benchmark corpora for hate
-speech detection: A systematic review. Lang.
-Resour. Eval. 2020, 55, 477–523 .
-10. Davidson, T.;Warmsley, D.; Macy, M.;Weber, I.
-Automated Hate Speech Detection and the Problem
-of Offensive Language. arXiv 2017,
-arXiv:1703.04009.
-11. Mishra, P.; Del Tredici, M.; Yannakoudakis, H.;
-Shutova, E. Abusive Language Detection with
-Graph Convolutional Networks. In Proceedings of
-the 2019 Conference of the North American
-Chapter of the Association for Computational
-Linguistics: Human Language Technologies,
-Volume 1 (Long and Short Papers), 2019;
-Association for Computational Linguistics:
-Minneapolis, MN, USA, 2019; pp. 2145–2150.
-12. Waseem, Z.; Hovy, D. Hateful Symbols or Hateful
-People? Predictive Features for Hate Speech
-Detection on Twitter. In Proceedings of the NAACL
-Student Research Workshop, San Diego, CA, USA,
-13–15 June 2016; Association for Computational
-Linguistics: San Diego, CA, USA, 2016; pp. 88–93.
-13. Waseem, Z. Are You a Racist or Am I Seeing
-Things? Annotator Influence on Hate Speech
-Detection on Twitter. In Proceedings of the
-FirstWorkshop on NLP and Computational Social
-Science, Austin, TX, USA, 5 November 2016;
-Association for Computational Linguistics: Austin,
-TX, USA, 2016; pp. 138–142.
-14. Jaki, S.; Smedt, T.D. Right-wing German Hate
-Speech on Twitter: Analysis and Automatic
-Detection. arXiv 2019, arXiv:1910.07518
-15. A. Chiu, K. Sood, A. Rincon and D. Doran,
-"Detecting Hate Speech on Social Media with
-Respect to Adolescent Vulnerability," 2023 IEEE
-13th Annual Computing and Communication
-Workshop and Conference (CCWC), Las Vegas,
-NV, USA, 2023, pp. 0724-0728, doi:
-10.1109/CCWC57344.2023.10099373.
-16. Poletto, F.; Stranisci, M.; Sanguinetti, M.; Patti, V.;
-Bosco, C. Hate speech annotation: Analysis of an
-italian twitter corpus. In Proceedings of the 4th
-Italian Conference on Computational Linguistics,
-CLiC-it 2017, CEUR-WS, Rome, Italy, 11–13
-December 2017; Volume 2006, pp. 1–6.
-17. Pereira-Kohatsu, J.C.; Quijano-Sánchez, L.;
-Liberatore, F.; Camacho-Collados, M. Detecting
-and monitoring hate speech in Twitter. Sensors
-2019, 19, 4654.
-18. Vaswani, A.; Shazeer, N.; Parmar, N.; Uszkoreit, J.;
-Jones, L.; Gomez, A.N.; Kaiser, L.u.; Polosukhin, I.
-Attention is All you Need. In Advances in Neural
-Information Processing Systems; Guyon, I.,
-Luxburg, U.V., Bengio, S., Wallach, H., Fergus, R.,
-Vishwanathan, S.,Garnett, R., Eds.; Curran
-Associates, Inc.: New York, NY, USA, 2017 ;
-Volume 30.
-19. Devlin, J., Chang, M.W., Lee, K, Toutanova, K.,
-“BERT: Pre-training of Deep Bidirectional
-Transformers for Language Understanding”, 2019,
-Proceedings of NAACL-HLT 2019, MN, USA,
-pp-4171-4186
-20. Peters, M. E., Neumann, M., Iyyer, M., Gardner,
-M., Clark, C., Lee, K., Zettlemoyer, L. “Deep
-contextualized word representations”, 2018,
-NAACL 2018, arXiv:1802.05365v2
-21. Radford, A., Narasimhan, K., Salimans, T.,
-Sutskever, I., “Improving Language Understanding
-by Generative Pre-Training”
-22. Ozler, K.B.; Kenski, K.; Rains, S.; Shmargad, Y.;
-Coe, K.; Bethard, S. Fine-tuning for multi-domain
-and multi-label uncivil language detection. In
-Proceedings of the Fourth Workshop on Online
-Abuse and Harms, 2020; Association for
-Computational Linguistics: Stroudsburg, PA, USA,
-2020; pp. 28–33.
-23. Koufakou, A.; Pamungkas, E.W.; Basile, V.; Patti,
-V. HurtBERT: Incorporating Lexical Features with
-BERT for the Detection of Abusive Language. In
-Proceedings of the Fourth Workshop on Online
-Abuse and Harms, Online, 20 November 2020;
-Association for Computational Linguistics:
-Stroudsburg, PA, USA, 2020; pp. 34–43.
+-6. Guberman, J.; Schmitz, C.; Hemphill, L. Quantifying toxicity and verbal violence on Twitter. In Proceedings of the 19th ACM Conference on Computer Supported Cooperative Work and Social Computing Companion, San Francisco, CA, USA, 27 February–2 March 2016; pp. 277–280.
+
+-7. Gunasekara, I.; Nejadgholi, I. A review of standard text classification practices for multi-label toxicity identification of online content. In Proceedings of the 2nd Workshop on Abusive Language Online (ALW2), Brussels, Belgium, 31 October–1 November 2018; pp. 21–25.
+
+-8. Parent, M.C.; Gobble, T.D.; Rochlen, A. Social media behavior, toxic masculinity, and depression. Psychol. Men Masculinities 2019, 20, 277.
+
+-9. Poletto, F.; Basile, V.; Sanguinetti, M.; Bosco, C.; Patti, V. Resources and benchmark corpora for hate speech detection: A systematic review. Lang. Resour. Eval. 2020, 55, 477–523 .
+
+-10. Davidson, T.;Warmsley, D.; Macy, M.;Weber, I. Automated Hate Speech Detection and the Problem of Offensive Language. arXiv 2017, arXiv:1703.04009.
+
+-11. Mishra, P.; Del Tredici, M.; Yannakoudakis, H.; Shutova, E. Abusive Language Detection with Graph Convolutional Networks. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), 2019; Association for Computational Linguistics: Minneapolis, MN, USA, 2019; pp. 2145–2150.
+
+-12. Waseem, Z.; Hovy, D. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter. In Proceedings of the NAACL Student Research Workshop, San Diego, CA, USA, 13–15 June 2016; Association for Computational Linguistics: San Diego, CA, USA, 2016; pp. 88–93.
+
+-13. Waseem, Z. Are You a Racist or Am I Seeing Things? Annotator Influence on Hate Speech Detection on Twitter. In Proceedings of the FirstWorkshop on NLP and Computational Social Science, Austin, TX, USA, 5 November 2016; Association for Computational Linguistics: Austin, TX, USA, 2016; pp. 138–142.
+
+-14. Jaki, S.; Smedt, T.D. Right-wing German Hate Speech on Twitter: Analysis and Automatic Detection. arXiv 2019, arXiv:1910.07518
+
+-15. A. Chiu, K. Sood, A. Rincon and D. Doran, "Detecting Hate Speech on Social Media with Respect to Adolescent Vulnerability," 2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV, USA, 2023, pp. 0724-0728, doi: 10.1109/CCWC57344.2023.10099373.
+
+-16. Poletto, F.; Stranisci, M.; Sanguinetti, M.; Patti, V.; Bosco, C. Hate speech annotation: Analysis of an italian twitter corpus. In Proceedings of the 4th Italian Conference on Computational Linguistics, CLiC-it 2017, CEUR-WS, Rome, Italy, 11–13 December 2017; Volume 2006, pp. 1–6.
+
+-17. Pereira-Kohatsu, J.C.; Quijano-Sánchez, L.; Liberatore, F.; Camacho-Collados, M. Detecting and monitoring hate speech in Twitter. Sensors 2019, 19, 4654.
+
+-18. Vaswani, A.; Shazeer, N.; Parmar, N.; Uszkoreit, J.; Jones, L.; Gomez, A.N.; Kaiser, L.u.; Polosukhin, I. Attention is All you Need. In Advances in Neural Information Processing Systems; Guyon, I., Luxburg, U.V., Bengio, S., Wallach, H., Fergus, R., Vishwanathan, S.,Garnett, R., Eds.; Curran Associates, Inc.: New York, NY, USA, 2017 ; Volume 30.
+
+-19. Devlin, J., Chang, M.W., Lee, K, Toutanova, K., “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding”, 2019, Proceedings of NAACL-HLT 2019, MN, USA, pp-4171-4186
+
+-20. Peters, M. E., Neumann, M., Iyyer, M., Gardner, M., Clark, C., Lee, K., Zettlemoyer, L. “Deep contextualized word representations”, 2018, NAACL 2018, arXiv:1802.05365v2
+
+-21. Radford, A., Narasimhan, K., Salimans, T., Sutskever, I., “Improving Language Understanding by Generative Pre-Training”
+
+-22. Ozler, K.B.; Kenski, K.; Rains, S.; Shmargad, Y.; Coe, K.; Bethard, S. Fine-tuning for multi-domain and multi-label uncivil language detection. In Proceedings of the Fourth Workshop on Online Abuse and Harms, 2020; Association for Computational Linguistics: Stroudsburg, PA, USA, 2020; pp. 28–33.
+
+-23. Koufakou, A.; Pamungkas, E.W.; Basile, V.; Patti, V. HurtBERT: Incorporating Lexical Features with BERT for the Detection of Abusive Language. In Proceedings of the Fourth Workshop on Online Abuse and Harms, Online, 20 November 2020; Association for Computational Linguistics: Stroudsburg, PA, USA, 2020; pp. 34–43.
 
 ## License
 
